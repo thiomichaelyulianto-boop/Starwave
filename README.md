@@ -28,10 +28,13 @@ The wireframes lay out structural component placement, layout hierarchies, and s
 * **Merchandise Store & Checkout:** Two-column product grid, item detail previews, single-item direct checkout modal, and delivery information handling.
 * **Profile, Accordion FAQ & Draggable Maps:** User detail management, expandable/collapsible accordion FAQ blocks, and headquarter location map views.
 
+## High-Fidelity UI & Prototype
+Translated user flows and low-fidelity layouts into a high-fidelity visual interface and interactive prototype featuring component styling, auto layouts, and transitions.
 
-**Figma Wireframe:** [Figma](https://www.figma.com/design/4cNVZhn8ZvhibAv4TMnCqW/Wireframe---StarWave---2?node-id=0-1&t=Gtef8y300HosXd4R-1)  
-**Figma UI/UX Design:** [Figma](https://www.figma.com/design/Q33aQNBk3lPMuYkFS8sNsk/Starwave?node-id=0-1&t=QuCZbbMbV0b5OxrR-1)
-**User Journey:** [User Journey](https://docs.google.com/spreadsheets/d/1s5ffKToP3hFsdueUCFjaHkirFmfgBtTa/edit?usp=drive_link&ouid=106000366178555106389&rtpof=true&sd=true )
+## Project Links & Deliverables
+* **Figma Wireframe (Low/Mid-Fi):** [View Wireframe on Figma](https://www.figma.com/design/4cNVZhn8ZvhibAv4TMnCqW/Wireframe---StarWave---2?node-id=0-1&t=Gtef8y300HosXd4R-1)
+* **Figma UI/UX Design & Prototype (Hi-Fi):** [View UI Design on Figma](https://www.figma.com/design/Q33aQNBk3lPMuYkFS8sNsk/Starwave?node-id=0-1&t=QuCZbbMbV0b5OxrR-1)
+* **User Journey Sheet:** [View User Journey Mapping](https://docs.google.com/spreadsheets/d/1s5ffKToP3hFsdueUCFjaHkirFmfgBtTa/edit?usp=drive_link&ouid=106000366178555106389&rtpof=true&sd=true)
 
 ## Contributors
 * Darren Nathaniel Chandra
