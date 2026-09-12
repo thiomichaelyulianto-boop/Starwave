@@ -33,12 +33,6 @@ The wireframes lay out structural component placement, layout hierarchies, and s
 **Figma UI/UX Design:** [Figma](https://www.figma.com/design/Q33aQNBk3lPMuYkFS8sNsk/Starwave?node-id=0-1&t=QuCZbbMbV0b5OxrR-1)
 **User Journey:** [User Journey](https://docs.google.com/spreadsheets/d/1s5ffKToP3hFsdueUCFjaHkirFmfgBtTa/edit?usp=drive_link&ouid=106000366178555106389&rtpof=true&sd=true )
 
-## UX Methods & Design Skills
-* **Research & Ideation:** User Personas, User Journey Mapping, Pain Point Analysis.
-* **Process & IA:** Task Flow Modeling, Navigation Mapping, Screen Routing.
-* **UI/UX Wireframing:** Mid-Fidelity Wireframes, Auto Layout Planning, Component Layout, Mobile App Interface Structure (iOS/Android standards).
-* **Tooling:** Figma, Lucidchart, Excel
-
 ## Contributors
 * Darren Nathaniel Chandra
 * Thio Michael Yulianto
