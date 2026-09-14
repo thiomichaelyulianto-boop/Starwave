@@ -12,18 +12,17 @@ Two distinct user archetypes were developed to guide user needs, goals, and inte
 ![User Persona Preview](Persona.png)
 
 ## UX Research & Information Architecture
-* **User Journey Mapping:** Documented cross-phase user motivations, emotional highs and lows, internal application behaviors, and identified product improvement opportunities (e.g., streaming features, purchase limits, and search accessibility).
+* **User Journey Mapping:** Documented cross-phase user motivations, emotional highs and lows, internal application behaviors, and identified product improvement opportunities.
 * **Task Flows:** Modeled 10 sequential task flows covering onboarding, community posting, liking artist feeds, AI chatbot queries, product checkout, and profile settings.
-* **Navigation Map:** Structured the application hierarchy around 5 core navigation anchors: **Home**, **Interact** (Feed & Artist Tabs), **Chat Bot**, **Shop**, and **Profile** (FAQ & About Us).
+* **Navigation Map:** Structured the application hierarchy around 5 core navigation anchors: **Home**, **Interact**, **Chat Bot**, **Shop**, and **Profile**.
 
 ![Navigation Map](Navigation_Map.png)
 
 ## Wireframing & Interaction Design
 The wireframes lay out structural component placement, layout hierarchies, and screen navigation rules before high-fidelity styling:
-
 * **Authentication & Onboarding:** Carousel introduction, registration validation, and sign-in feedback pop-ups.
 * **Home Feed & Discovery:** Auto-sliding banner carousels, horizontal trending merchandise cards, and new artist joining highlights.
-* **Interact (Community & Artist):** Dual-tab interface supporting fan-generated posts with image attachments and verified artist posts with reaction controls.
+* **Interact:** Dual-tab interface supporting fan-generated posts with image attachments and verified artist posts with reaction controls.
 * **AI Chat Bot:** Dedicated conversational room for platform support and artist schedule inquiries.
 * **Merchandise Store & Checkout:** Two-column product grid, item detail previews, single-item direct checkout modal, and delivery information handling.
 * **Profile, Accordion FAQ & Draggable Maps:** User detail management, expandable/collapsible accordion FAQ blocks, and headquarter location map views.
