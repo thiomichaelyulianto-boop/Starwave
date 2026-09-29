@@ -6,7 +6,7 @@ While mainstream social media platforms allow fans to follow public figures, int
 
 ## Target Users & Persona
 Two distinct user archetypes were developed to guide user needs, goals, and interface hierarchy:
-* **Persona 1 (Ditsky Haryono, 22):** Highly active college student seeking reliable, real-time schedule updates and community discussion channels.
+* **Persona 1 (Aditsky Haryono, 22):** Highly active college student seeking reliable, real-time schedule updates and community discussion channels.
 * **Persona 2 (I Ketut Sarah Anjayani, 18):** Enthusiast fan prioritizing verified official merchandise purchases and exclusive artist media access.
 
 ![User Persona Preview](Persona.png)
