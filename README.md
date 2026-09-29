@@ -9,7 +9,7 @@ Two distinct user archetypes were developed to guide user needs, goals, and inte
 * **Persona 1 (Aditsky Haryono, 22):** Highly active college student seeking reliable, real-time schedule updates and community discussion channels.
 * **Persona 2 (I Ketut Sarah Anjayani, 18):** Enthusiast fan prioritizing verified official merchandise purchases and exclusive artist media access.
 
-![User Persona Preview](Persona 1.png)
+![User Persona Preview](Persona_1.png)
 
 ## UX Research & Information Architecture
 * **User Journey Mapping:** Documented cross-phase user motivations, emotional highs and lows, internal application behaviors, and identified product improvement opportunities.
